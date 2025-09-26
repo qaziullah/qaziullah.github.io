@@ -36,10 +36,13 @@ NUST-SEECS, Islamabad
 
 ## Projects
 
-### RISC-V Processor Design: NTiny
+### RISC-V Processor Design: NTiny [[link1](https://www.dawn.com/news/1694672), [link2](https://ics.seecs.edu.pk/research#h.bbd8fxi223bq)]
 
 *Aug 2021 – Feb 2023*
 
+- Played an integral role in the ground-up development and successful tape-out of a 1mmX1mm RISC-V based micro-
+controller chip, [Nust-Tiny (NTiny)](https://ics.seecs.edu.pk/research#h.bbd8fxi223bq), on the TSMC 65nm node, with 50MHz operating frequency.
+- Lead the design, implementation, and verification of its un-core system and peripheral IPs (UART, I2C, SPI).
 - Worked on single precision floating-point unit (FPU) for in-house processor core.
 - Emulation of NTiny softcore on Intel FPGA.
 - Used chipalliance RISC-V DV framework and Cadence Incisive tool for verification and coverage of processor core.

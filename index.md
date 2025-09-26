@@ -7,7 +7,7 @@
 ---
 
 ## Summary
-With over 3 years of practical ASIC design expertise, I excel in capturing design specifications, converting them into architecture and micro-architecture, implementing the system in System-Verilog HDL, and executing physical design using industry-standard EDA tools. Notably, I have played a pivotal role in two successful TSMC 65nm tape-outs of RISC-V processors. Currently, I am actively engaged in the microarchitecture and physical design of a Match-Action processor at DreamBig Semiconductor.
+With over 5 years of practical ASIC design expertise, I excel in capturing design specifications, converting them into architecture and micro-architecture, implementing the system in System-Verilog HDL, and executing physical design using industry-standard EDA tools. Notably, I have played a pivotal role in two successful TSMC 65nm tape-outs of RISC-V processors. Currently, I am actively engaged in the microarchitecture and physical design of a Match-Action processor at DreamBig Semiconductor.
 
 
 ---
